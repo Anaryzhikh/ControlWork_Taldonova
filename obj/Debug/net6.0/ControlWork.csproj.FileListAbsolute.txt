@@ -1,0 +1,15 @@
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.csproj.AssemblyReference.cache
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfoInputs.cache
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfo.cs
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.csproj.CoreCompileInputs.cache
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/bin/Debug/net6.0/ControlWork
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/bin/Debug/net6.0/ControlWork.deps.json
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/bin/Debug/net6.0/ControlWork.runtimeconfig.json
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/bin/Debug/net6.0/ControlWork.dll
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/bin/Debug/net6.0/ControlWork.pdb
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.dll
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/refint/ControlWork.dll
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.pdb
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ControlWork.genruntimeconfig.cache
+/Users/anastasiataldonova/Desktop/GB Разработчик/C# знакомство/ControlWork/obj/Debug/net6.0/ref/ControlWork.dll
