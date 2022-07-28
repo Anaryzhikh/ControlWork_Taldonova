@@ -17,8 +17,14 @@ void Print(string[] arr)
     Console.WriteLine();
 }
 
-string[] array1 = new string[] { "hello", "2", ";-)" };
+string[] array1 = new string[] { "1234", "1567", "-2", "computer science" };
 string[] array2 = new string[array1.Length];
 
-Print(array1);
+for (int i = 0; i < array1.Length; i++)
+{
+    if (array1[i].Length <= 3)
+    {
+        array2[i] = array1[i];
+    }
+}
 Print(array2);
